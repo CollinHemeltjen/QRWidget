@@ -6,6 +6,10 @@
 
 	<title class="pageTitle">{{ site.page_title }}</title>
 	<meta name="description" content="{{ site.app_description }}">
+	<meta property="og:site_name" content="{{ site.page_title }}">
+	<meta property="og:title" content="{{ site.page_title }}" />
+	<meta property="og:description" content="{{ site.app_description }}" />
+	<meta property="og:image" itemprop="image" content="{{ site.app_icon }}">
 
 	<link rel="shortcut icon" href="{{ site.app_icon }}" type="image/x-icon">
 
@@ -19,9 +23,6 @@
 	<link rel="stylesheet" href="main.css">
 	<link rel="stylesheet" href="../main.css">
 
-	<meta property="og:site_name" content="{{ site.page_title }}">
-	<meta property="og:title" content="{{ site.page_title }}" />
-	<meta property="og:description" content="{{ site.app_description }}" />
-	<meta property="og:image" itemprop="image" content="{{ site.app_icon }}">
+
 
 </head>

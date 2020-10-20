@@ -46,10 +46,6 @@ features                                  :
     description                           : Change the colours to match your homescreen aesthetic best.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
 
 
 # Theme Settings

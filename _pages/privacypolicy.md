@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
 **Privacy Policy**
 
 Collin Hemeltjen built the QRWidgets app as a Free app. This SERVICE is provided by Collin Hemeltjen at no cost and is intended for use as is.
